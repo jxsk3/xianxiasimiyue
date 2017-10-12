@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/jxsk3/heisiyue/raw/master/call_man.png)
+ ![image](https://github.com/jxsk3/xianxiasimiyue/raw/master/call_man.png)
 
 ### 好点子？
 
@@ -18,4 +18,4 @@
 
 邮箱地址：jxsk3@21cn.com
 
-[隐私协议](https://raw.githubusercontent.com/jxsk3/heisiyue/master/privacy.cmd)
+[隐私协议](https://raw.githubusercontent.com/jxsk3/xianxiasimiyue/master/privacy.cmd)
